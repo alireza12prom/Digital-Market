@@ -1,0 +1,158 @@
+{
+    "Clothes": {
+        "1": {
+            "Name": "Shoes",
+            "Price": 100000,
+            "Stock": 8,
+            "Comments": {}
+        },
+        "2": {
+            "Name": "Hat",
+            "Price": 1200,
+            "Stock": 0,
+            "Comments": {}
+        },
+        "3": {
+            "Name": "T-shirt",
+            "Price": 4500,
+            "Stock": 10,
+            "Comments": {}
+        },
+        "4": {
+            "Name": "Pants",
+            "Price": 9000,
+            "Stock": 5,
+            "Comments": {}
+        },
+        "5": {
+            "Name": "Blouse",
+            "Price": 80000,
+            "Stock": 3,
+            "Comments": {}
+        },
+        "6": {
+            "Name": "Skirt",
+            "Price": 9000,
+            "Stock": 5,
+            "Comments": {}
+        },
+        "7": {
+            "Name": "Sweater",
+            "Price": 9000,
+            "Stock": 5,
+            "Comments": {}
+        },
+        "8": {
+            "Name": "Jeans",
+            "Price": 9000,
+            "Stock": 5,
+            "Comments": {}
+        },
+        "9": {
+            "Name": "Dress",
+            "Price": 55000,
+            "Stock": 7,
+            "Comments": {}
+        },
+        "10": {
+            "Name": "Tie",
+            "Price": 300,
+            "Stock": 12,
+            "Comments": {}
+        },
+        "11": {
+            "Name": "Vest",
+            "Price": 9000,
+            "Stock": 5,
+            "Comments": {}
+        },
+        "12": {
+            "Name": "Bow tie",
+            "Price": 9000,
+            "Stock": 5,
+            "Comments": {}
+        },
+        "13": {
+            "Name": "Shorts",
+            "Price": 9000,
+            "Stock": 5,
+            "Comments": {}
+        }
+    },
+    "Laptop": {
+        "100": {
+            "Name": "Asuse",
+            "Price": 30000,
+            "Stock": 10,
+            "Comments": {}
+        },
+        "101": {
+            "Name": "Lenovo",
+            "Price": 25000,
+            "Stock": 15,
+            "Comments": {}
+        },
+        "102": {
+            "Name": "Sony",
+            "Price": 30000,
+            "Stock": 10,
+            "Comments": {}
+        },
+        "103": {
+            "Name": "hp",
+            "Price": 20000,
+            "Stock": 2,
+            "Comments": {}
+        },
+        "104": {
+            "Name": "Macbook",
+            "Price": 540000,
+            "Stock": 4,
+            "Comments": {}
+        },
+        "105": {
+            "Name": "Surface",
+            "Price": 30000,
+            "Stock": 10,
+            "Comments": {}
+        }
+    },
+    "Mobile": {
+        "200": {
+            "Name": "iphone 12 promax",
+            "Price": 19000,
+            "Stock": 30,
+            "Comments": {}
+        },
+        "201": {
+            "Name": "iphone X",
+            "Price": 10000,
+            "Stock": 5,
+            "Comments": {}
+        },
+        "202": {
+            "Name": "Huawei",
+            "Price": 15000,
+            "Stock": 3,
+            "Comments": {}
+        },
+        "203": {
+            "Name": "Sumsong",
+            "Price": 18000,
+            "Stock": 10,
+            "Comments": {}
+        },
+        "204": {
+            "Name": "Nokia",
+            "Price": 3000,
+            "Stock": 40,
+            "Comments": {}
+        },
+        "205": {
+            "Name": "Xiaomi",
+            "Price": 15000,
+            "Stock": 7,
+            "Comments": {}
+        }
+    }
+}

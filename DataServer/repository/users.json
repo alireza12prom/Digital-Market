@@ -1,0 +1,95 @@
+{
+    "UniqueId": {
+        "UserId": "",
+        "FullName": "",
+        "Password": "",
+        "Age": 0,
+        "Email": null,
+        "Phone": null,
+        "Wallet": 0,
+        "ShoppingBag": {
+            "ProductCode": {
+                "Category": "",
+                "Number": 0
+            }
+        },
+        "Favorites": {
+            "ProductCode": "Category"
+        },
+        "ShoppingHistory": {
+            "Id-Date": [
+                {
+                    "ProductCode": "",
+                    "Category": "",
+                    "Number": 0,
+                    "Bill": 0
+                }
+            ]
+        }
+    },
+    "test1234": {
+        "UserId": "ali.123@yahoo.com",
+        "FullName": "Alireza-Rezapour",
+        "Password": "",
+        "Age": 19,
+        "Email": "Nolanuser69@yahoo.com",
+        "Phone": "09381586291",
+        "Wallet": 204000.0,
+        "ShoppingBag": {},
+        "Favorites": {},
+        "ShoppingHistory": {}
+    },
+    "5013": {
+        "FullName": "alireza-rezapour",
+        "UserId": "nolanuser",
+        "Password": "Nolan11228",
+        "Age": 19,
+        "Email": "nolanuser69@yahoo.com",
+        "Phone": 9381586291,
+        "Wallet": 24300.0,
+        "ShoppingBag": {},
+        "Favorites": {},
+        "ShoppingHistory": {
+            "1-1.1.2001-Returned": [
+                {
+                    "ProductCode": "7",
+                    "Category": "Clothes",
+                    "Number": 1,
+                    "Bill": 9000
+                },
+                {
+                    "ProductCode": "3",
+                    "Category": "Clothes",
+                    "Number": 4,
+                    "Bill": 18000
+                }
+            ]
+        }
+    },
+    "8512": {
+        "FullName": "hola-hamedi",
+        "UserId": "hola",
+        "Password": "12345",
+        "Age": 18,
+        "Email": "example@yahoo.com",
+        "Phone": 9380586291,
+        "Wallet": 29100.0,
+        "ShoppingBag": {
+            "8": {
+                "Category": "Clothes",
+                "Number": 1
+            }
+        },
+        "Favorites": {},
+        "ShoppingHistory": {
+            "1-8.12.2022-Returned": [
+                {
+                    "ProductCode": "8",
+                    "Category": "Clothes",
+                    "Number": 1,
+                    "Bill": 9000
+                }
+            ]
+        }
+    }
+}
